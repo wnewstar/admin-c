@@ -1,7 +1,7 @@
 {
-  "name": "first",
+  "name": "admin-c",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "admin-c",
   "author": "wnewstar <192513073@qq.com>",
   "private": true,
   "scripts": {

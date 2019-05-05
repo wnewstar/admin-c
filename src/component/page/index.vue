@@ -56,7 +56,7 @@ div.box-primary {
                                         <div class="small-box bg-red">
                                             <div class="inner">
                                                 <h3>{{ data.api }}</h3>
-                                                <p>接口访问次数</p>
+                                                <p>API请求次数</p>
                                             </div>
                                             <div class="icon"><i class="ion ion-pie-graph"></i></div>
                                         </div>
@@ -74,7 +74,7 @@ div.box-primary {
                                         <div class="small-box bg-green">
                                             <div class="inner">
                                                 <h3>{{ data.mysql }}</h3>
-                                                <p>Mysql操作次数</p>
+                                                <p>MySQL操作次数</p>
                                             </div>
                                             <div class="icon"><i class="ion ion-bag"></i></div>
                                         </div>
